@@ -13,5 +13,5 @@ In this project, I used different machine learning models like Logistic Regressi
 The dataset used for this project is included in the repository under the `data/` folder. To load the dataset in the Jupyter notebook, make sure to reference the correct file path:
 
 ```python
-df = pd.read_csv('data/your_file.csv')
+df = pd.read_csv('data/heart-disease.csv')
 
